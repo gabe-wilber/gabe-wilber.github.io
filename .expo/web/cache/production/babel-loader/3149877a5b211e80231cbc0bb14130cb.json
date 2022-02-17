@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default{blue:'#87C6FF'};","map":{"version":3,"sources":["/Users/gabew/Codelation-Projects/gabe-wilber.github.io/src/Colors.js"],"names":["blue"],"mappings":"AAAA,cAAe,CACbA,IAAI,CAAE,SADO,CAAf","sourcesContent":["export default {\n  blue: '#87C6FF',\n};\n"]},"metadata":{},"sourceType":"module"}
