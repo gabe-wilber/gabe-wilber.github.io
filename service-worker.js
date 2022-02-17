@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/codelation/Expo-Crossy-Road/precache-manifest.e818ec1192445acb86124c1da920233e.js"
+  "/gabe-wilber/gabe-wilber.github.io/precache-manifest.ad658a718a9433d66688397507c95e6d.js"
 );
 
 workbox.skipWaiting();
@@ -29,7 +29,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/codelation/Expo-Crossy-Road/index.html", {
+workbox.routing.registerNavigationRoute("/gabe-wilber/gabe-wilber.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
