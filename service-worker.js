@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/gabe-wilber/gabe-wilber.github.io/precache-manifest.ad658a718a9433d66688397507c95e6d.js"
+  "/gabe-wilber/gabe-wilber.github.io/precache-manifest.855c5a6c113909cbff2bb0cd9853e866.js"
 );
 
 workbox.skipWaiting();
